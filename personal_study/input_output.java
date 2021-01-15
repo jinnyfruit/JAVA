@@ -1,7 +1,7 @@
 /*
 file name: 메서드 선언하고 호출
 author:jinnyfruit
-modified: 01.14,2021
+modified: 01.15,2021
 */
 import java.util.Scanner;   //입력과 출력 관련 class. (java util 패키지에 있다.)
 /*
