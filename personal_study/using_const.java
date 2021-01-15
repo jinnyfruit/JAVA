@@ -10,7 +10,7 @@ public class BioCalendar {
     */
     public static void main(String[] args){
         System.out.println(PHYSICAL);
-        int index=PHYSICAL;
+        int index=PHYSICAL; //상수를 변수에 대입할 수 있다.
         double vals =2*Math.PI/index;
         //Math.PI는 Math 클래스에 public final double PI=3.14 로 선언되어 있다.
         System.out.println(vals+"라디안");
