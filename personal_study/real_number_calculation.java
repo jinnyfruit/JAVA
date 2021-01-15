@@ -1,5 +1,5 @@
 /*
-file name: integer calculation
+file name: real number calculation
 author:jinnyfruit
 modified: 01.14,2021
 */

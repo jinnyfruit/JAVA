@@ -1,5 +1,5 @@
 /*
-file name: integer array
+file name: real number array
 author:jinnyfruit
 modified: 01.14,2021
 */
