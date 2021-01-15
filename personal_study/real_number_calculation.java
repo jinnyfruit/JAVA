@@ -1,5 +1,5 @@
 /*
-file name: real number calculation
+file name: compare char and string
 author:jinnyfruit
 modified: 01.14,2021
 */
