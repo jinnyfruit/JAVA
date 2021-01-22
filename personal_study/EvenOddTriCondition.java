@@ -21,8 +21,8 @@ public class EvenOddTriCondition {
             else if (num == 0)
                 System.out.println("짝수입니다");
         }
-        
     }
+    
 }
 
 
