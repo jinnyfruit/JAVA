@@ -1,5 +1,5 @@
 /*
-file name: 논리 연산자(&&,||) 로 윤년 판별하기
+file name: 논리연산자로 윤년 판별하기
 author:jinnyfruit
 modified: 01.26,2021
 */
@@ -13,10 +13,11 @@ public class Jcalendar {
         return isS;
     }
     public static void main(String[] args){
-        
-        Scanner scann = new Scanner(System.in);     
+
+        Scanner scann = new Scanner(System.in);
+        System.out.println("윤년인지 판별할 년도를 입력하세요:");
         int year = scann.nextInt();     // get integer from user
         Jcalendar hc = new Jcalendar();      // make a Jcalendar object, hc
-        System.out.println(hc.isLeapYear(year)); 
+        System.out.println(hc.isLeapYear(year));
     }
 }
