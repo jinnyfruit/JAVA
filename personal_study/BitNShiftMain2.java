@@ -11,7 +11,7 @@ public class BitShiftMain {
         int BITMASK=1;
         String s="";    //initialization
         for(int i=0;i<=31;i++){
-            s+=(num&BITMASK);
+            s=(num&BITMASK)+s;
             num>>=1;    //same as a/=2
         }
         return s;
