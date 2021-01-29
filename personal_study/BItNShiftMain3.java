@@ -5,6 +5,14 @@ modified: 01.29,2021
 */
 import java.util.Scanner;   //입출력
 
+/*
+    String substring(int index)
+    -> index값을 받으면 그 index 포함 이후의 모든 문자열 return
+    
+    String substring(int index, int endindex)
+    -> index: 시작부분, endindex: 문자열 끝부분 지정
+*/
+
 public class BitShiftMain {
     //10진수 정수를 2진수 문자열(String)으로 변환
     public static String shift(int num){
