@@ -10,7 +10,7 @@ public class BitShiftMain {
     public static String shift(int num){
         int BITMASK=1;
         String s="";    //initialization
-        for(int i=0;i<31;i++){
+        for(int i=0;i<=31;i++){
             s+=(num&BITMASK);
             num>>=1;    //same as a/=2
         }
