@@ -1,9 +1,10 @@
  /*
- file name: Do While Loop
+ file name: Do While Loop 
  author: Ji Woo Kim
  modified; 04.08, 2021
 */
 import java.util.Scanner;
+
  public class DoWhileDemo {
 
     public static void main(String[] args){
