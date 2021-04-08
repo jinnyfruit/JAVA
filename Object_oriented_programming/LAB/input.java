@@ -1,5 +1,5 @@
  /*
- file name: Computes the average of a list of exam scores
+ file name: using for statment
  author: Ji Woo Kim
  modified; 04.08, 2021
 */
