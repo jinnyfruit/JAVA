@@ -20,7 +20,7 @@ public class SpeciesFirstTry {
         growthRate = scanner.nextDouble();
     }
 
-    public void writeOutPut(){
+    public void writeOutPut(){  
 
         System.out.println("Name = " + name);
         System.out.println("Population = " + population);
@@ -35,7 +35,7 @@ public class SpeciesFirstTry {
 
         while ((count > 0) && (populationAmount > 0)){
 
-          populationAmount = populationAmount + (growthRate / 100) * populationAmount;
+          populationAmount = populationAmount + (growthRate / 100) * populationAmount;  
 
           count --;
         }
